@@ -1,7 +1,11 @@
-# 工业 AI 科普动画
+# 工业 AI 科普动画成片
 
-[下载 MP4 视频](./industrial-ai.mp4)
+## Neon-Cyberpunk 重制版
 
-1920 × 1080 · 30 fps · H.264 / AAC · 14.53 秒。使用原始中文口播，无字幕。
+[直接下载 industrial-ai-neon.mp4](https://raw.githubusercontent.com/yydy5079-del/-/main/industrial-ai-neon.mp4)
 
-动画源码保存在 [html-code-animation](https://github.com/yydy5079-del/html-code-animation)；本仓库只用于存放成片。
+1920 × 1080、30 fps、H.264/AAC，14.53 秒。含原始口播与原创音效，无字幕。
+
+[动画源码和制作说明](https://github.com/yydy5079-del/html-code-animation/tree/main/industrial-ai/neon)保存在代码仓库；该仓库不存放成片。
+
+旧版 `industrial-ai.mp4` 保留，方便比较。
