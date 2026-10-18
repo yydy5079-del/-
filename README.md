@@ -1,6 +1,16 @@
 # 工业 AI 科普动画
 
-## 写实工业升级版（最新）
+## 逐句语义动画版（最新）
+
+[直接下载新版 MP4](https://raw.githubusercontent.com/yydy5079-del/-/main/industrial-ai-semantic.mp4)
+
+1920×1080 / 30 fps / H.264 + AAC / 23.433 秒。使用新上传的纯口播，17 个语义画面，独立表达人物协同、四项生产压力、控制闭环与资本布局。无字幕、无交互 UI、无黑场。交易画面按用户补充的已签协议、待审批交割状态表达。
+
+[查看分镜预览图](industrial-ai-semantic-preview.jpg) · [动画源码与构建说明](https://github.com/yydy5079-del/html-code-animation/tree/main/industrial-ai/semantic-hologram)
+
+技术检查：703 帧、完整解码通过、−14.14 LUFS、−1.5 dBTP；音效在有人声的效果窗口内平均低于口播约 8 dB。
+
+## 写实工业版（历史版本）
 
 [直接下载 industrial-ai-realistic.mp4](https://raw.githubusercontent.com/yydy5079-del/-/main/industrial-ai-realistic.mp4)
 
