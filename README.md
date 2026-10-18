@@ -1,5 +1,17 @@
 # 工业 AI 科普动画
 
+## 可复用动画技能（1.0.0）
+
+[下载 Opus5.5×Camera Motion Whiteboard Animation.zip](https://raw.githubusercontent.com/yydy5079-del/-/main/Opus5.5%C3%97Camera%20Motion%20Whiteboard%20Animation.zip)
+
+工程简报板风格的标准 Agent Skill，已安装在原代码仓库的 `.agents/skills/opus55-camera-motion-whiteboard-animation`。新任务上传口播 MP3 和文案，调用 `$opus55-camera-motion-whiteboard-animation`，默认从分镜持续制作到成片。
+
+固定 1080p30/H.264、2D/2.5D 局部运镜、无字幕、原声同步、音效低约 8 dB；Noto Sans SC 主字，Alibaba PuHuiTi Regular 辅助字。禁止辅助字随机变形，禁止结尾全板回顾。
+
+[查看修复后的辅助字体测试](camera-motion-whiteboard-font-check.jpg) · [技能源码与安装说明](https://github.com/yydy5079-del/html-code-animation/tree/main/.agents/skills/opus55-camera-motion-whiteboard-animation) · [压缩包校验信息](camera-motion-whiteboard-package.json)
+
+ZIP 仅含源码和文档，不包含原声、视频、字体、模型或凭据。字体由设置工具下载并校验。本安装范围是指定仓库，不是账号插件商店；其他电脑可用包内安装器安装到自己的仓库。
+
 ## 工程简报板版（最新）
 
 [直接下载 MP4](https://raw.githubusercontent.com/yydy5079-del/-/main/industrial-ai-briefing-board.mp4)
