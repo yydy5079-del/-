@@ -1,6 +1,18 @@
 # 工业 AI 科普动画
 
-## 逐句语义动画版（最新）
+## 工程简报板版（最新）
+
+[直接下载 MP4](https://raw.githubusercontent.com/yydy5079-del/-/main/industrial-ai-briefing-board.mp4)
+
+48.7667 秒，1920×1080 / 原生 30 fps / H.264 + AAC。使用加长版原始口播；一面连续简报板承载人物协同、工业压力、资本交易、软件与数据布局、国内政策、2027 年目标和生产成果追问。没有烧录字幕、交互 UI 或黑场转场。
+
+[查看分镜预览](industrial-ai-briefing-board-preview.jpg) · [查看全板封面](industrial-ai-briefing-board-poster.jpg) · [源码、构建说明与素材授权](https://github.com/yydy5079-del/html-code-animation/tree/main/industrial-ai/briefing-board)
+
+人物与设备为原创模型渲染剪贴，工艺区注明结构示意。字体沿用参考片的 Noto Sans SC 700/900 与霞鹜漫黑。交易按用户补充的“已签协议、待审批交割”状态呈现；四项政策数量作为 2027 年目标展示。
+
+技术检查：1463 帧、完整解码通过、−14.11 LUFS、−1.5 dBTP；主要音效在有人声的效果窗口内平均低于口播约 8.1 dB。校验信息见 [交付清单](industrial-ai-briefing-board-manifest.json)。原代码仓库不存放成片、音频、图片或字体大文件。
+
+## 逐句语义动画版（历史版本）
 
 [直接下载新版 MP4](https://raw.githubusercontent.com/yydy5079-del/-/main/industrial-ai-semantic.mp4)
 

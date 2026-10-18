@@ -1,0 +1,23 @@
+{
+  "file": "industrial-ai-briefing-board.mp4",
+  "bytes": 31428001,
+  "sha256": "94cfbdb4d170986cf19dc2c5db2916756dd358cd05588531650af24e6efd00a9",
+  "quality": {
+    "resolution": "1920x1080",
+    "fps": 30,
+    "codec": "H.264 / AAC",
+    "frames": 1463,
+    "duration": 48.766667,
+    "full_decode": "passed",
+    "unexpected_black_frames": false,
+    "subtitles": false,
+    "loudness_lufs": -14.11,
+    "true_peak_dbtp": -1.5
+  },
+  "sound": {
+    "sfx_below_voice_in_active_windows_db": 8.108106411818696,
+    "music_below_voice_db": 26.06921234408512,
+    "events": 71,
+    "premaster_peak_dbfs": -1.4116214857141456
+  }
+}
