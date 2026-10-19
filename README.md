@@ -1,5 +1,17 @@
 # 工业 AI 科普动画
 
+## 剪报拼贴动画技能（1.0.0）
+
+[下载 opus5.5 cut-out animation.zip](https://raw.githubusercontent.com/yydy5079-del/-/main/opus5.5%20cut-out%20animation.zip)
+
+输入口播文案和MP3，调用 `$opus55-cut-out-animation`，从对齐、分镜、无字剪贴资产与分层、代码动画到混音和1080p30/H.264渲染。
+
+第0帧只有纸底，重要元素先入场再进行有语义的二次动作。渲染与声音共用事件表，检查真实二次动作像素变化、接触音、因果顺序与主音效低约8dB。主字Noto Sans SC、辅助字Alibaba PuHuiTi Regular。支持多方向局部摄影机和按要求启用的视觉循环。
+
+[技能源码与安装说明](https://github.com/yydy5079-del/html-code-animation/tree/main/.agents/skills/opus55-cut-out-animation) · [压缩包校验信息](cut-out-animation-package.json)
+
+ZIP只包含源码、文档和字体清单，不含原声、媒体、字体二进制、凭据或依赖。标准仓库Skill安装已验证；跨Agent按宿主支持的Skill导入方式安装。技术用例不等于完整参考影片或未来文案成片已通过艺术与听觉验收。
+
 ## 可复用动画技能（1.0.0）
 
 [下载 Opus5.5×Camera Motion Whiteboard Animation.zip](https://raw.githubusercontent.com/yydy5079-del/-/main/Opus5.5%C3%97Camera%20Motion%20Whiteboard%20Animation.zip)
