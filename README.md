@@ -1,10 +1,12 @@
 # 工业 AI 科普动画
 
-## 剪报拼贴动画技能（1.0.0）
+## 剪报拼贴动画技能（1.1.0）
 
-[下载 opus5.5 cut-out animation.zip](https://raw.githubusercontent.com/yydy5079-del/-/main/opus5.5%20cut-out%20animation.zip)
+[下载 opus5.5 cut-out animation v1.1.zip](https://raw.githubusercontent.com/yydy5079-del/-/main/opus5.5%20cut-out%20animation%20v1.1.zip)
 
 输入口播文案和MP3，调用 `$opus55-cut-out-animation`，从对齐、分镜、无字剪贴资产与分层、代码动画到混音和1080p30/H.264渲染。
+
+本版已实际读取用户480p参考，按雕版/照片剪贴和编辑式报刊版面校准。新增撕纸/平直揭示、细纸边合成、Bezier弧线摄影机、正式项目关键词对齐与素材尺寸门禁。循环模式检查实际H.264首末帧和起止相机状态；音频循环单独判断。
 
 第0帧只有纸底，重要元素先入场再进行有语义的二次动作。渲染与声音共用事件表，检查真实二次动作像素变化、接触音、因果顺序与主音效低约8dB。主字Noto Sans SC、辅助字Alibaba PuHuiTi Regular。支持多方向局部摄影机和按要求启用的视觉循环。
 

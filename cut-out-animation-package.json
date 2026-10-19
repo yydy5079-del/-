@@ -1,8 +1,9 @@
 {
-  "file": "opus5.5 cut-out animation.zip",
-  "files": 30,
-  "bytes": 48568,
-  "sha256": "7f1a4fce27e5391f54609d6770deaa98459569aaef3e22cdc33b11b4a8af2ebf",
+  "version": "1.1.0",
+  "file": "opus5.5 cut-out animation v1.1.zip",
+  "files": 35,
+  "bytes": 66618,
+  "sha256": "dd750f68cb13172562e0ebcce24fcc0886ea453deaebb7c4513396224536ef47",
   "zip_integrity": "passed",
   "fresh_install_from_zip": "passed"
 }
